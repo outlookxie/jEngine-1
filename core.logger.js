@@ -6,6 +6,7 @@
  
  * @author terence.wangt  chuangui.xiecg, the original version's author: zhouquan.yezq
  * @date 2012-01-20
+ * @version 1.0
  */
  
 !(function($){
